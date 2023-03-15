@@ -1,3 +1,3 @@
 # Add your name and username here
 - [Erick Muuo](https://github.com/IamMuuo)
-- [Carl Munene](https://github.com/munenecar)
+- [Carl Munene](https://github.com/munenecarl)
