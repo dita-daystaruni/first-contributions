@@ -6,6 +6,7 @@
 - [Jessica Nzembi](https://github.com/jessNzembi)
 - [Erick Muuo](https://github.com/IamMuuo)
 - [Zawadi Rug](https://github.com/Zawadirugenyi)
+- [Ann Mitchele]( https://github.com/Ann-Mitchelle)
 - [Richie Migambi](https://github.com/RichieMuga)
 - [Eryl Bwiru](https://github.com/Eryl-Bwiru1)
 - [Samuel Nyongo](https://github.com/NgigiN)
