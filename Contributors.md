@@ -5,6 +5,7 @@
 - [John Muinde](https://github.com/john-muinde)
 - [Jessica Nzembi](https://github.com/jessNzembi)
 - [Erick Muuo](https://github.com/IamMuuo)
+- [Rothschild](https://github.com/DITEZ)
 - [Zawadi Rug](https://github.com/Zawadirugenyi)
 - [Ann Mitchele]( https://github.com/Ann-Mitchelle)
 - [Richie Migambi](https://github.com/RichieMuga)
