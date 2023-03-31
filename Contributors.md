@@ -6,6 +6,7 @@
 - [Jessica Nzembi](https://github.com/jessNzembi)
 - [Erick Muuo](https://github.com/IamMuuo)
 - [Rothschild](https://github.com/DITEZ)
+- [elijah gamael](https://github.com/elijah-12-lab)
 - [Zawadi Rug](https://github.com/Zawadirugenyi)
 - [Ann Mitchele]( https://github.com/Ann-Mitchelle)
 - [Richie Migambi](https://github.com/RichieMuga)
