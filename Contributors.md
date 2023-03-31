@@ -2,6 +2,7 @@
   
 
 - [Chris Kinungi](https://github.com/CHRISKINUNGI)
+- [John Muinde](https://github.com/john-muinde)
 - [Jessica Nzembi](https://github.com/jessNzembi)
 - [Erick Muuo](https://github.com/IamMuuo)
 - [Richie Migambi](https://github.com/RichieMuga)
