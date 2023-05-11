@@ -16,4 +16,5 @@
 - [Egesa W.O](https://github.com/wayneotemah/)
 - [Mercy Thiga](https://github.com/SheeThiga:wq)
 - [Topoika Tampul](https://github.com/topoika)
+- [Tirus Tendwa](https://github.com/Tendz09)
 - [Carl Munene](https://github.com/munenecarl)
