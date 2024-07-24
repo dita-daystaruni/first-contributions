@@ -14,6 +14,7 @@
 - [Samuel Nyongo](https://github.com/NgigiN)
 - [Clive Sasaka](https://github.com/Csasaka19)
 - [Egesa W.O](https://github.com/wayneotemah/)
+- [Elie Bamunoba](https://github.com/ElieBamunoba/)
 - [Mercy Thiga](https://github.com/SheeThiga:wq)
 - [Topoika Tampul](https://github.com/topoika)
 - [Tirus Tendwa](https://github.com/Tendz09)
